@@ -1,8 +1,15 @@
 aiohttp==3.7.3
+aiosqlite==0.16.0
 async-timeout==3.0.1
 attrs==20.3.0
 chardet==3.0.4
 idna==2.10
+iso8601==0.1.13
 multidict==5.1.0
+pydantic==1.7.3
+PyPika==0.44.1
+pytz==2020.4
+starlette==0.13.6
+tortoise-orm==0.16.18
 typing-extensions==3.7.4.3
 yarl==1.6.3
